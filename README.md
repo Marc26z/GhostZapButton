@@ -7,7 +7,7 @@
 
   ### Got Nostr?
 
-`<style>
+<style>
   .zap-button {
     background: linear-gradient(to right, orange, purple);
     color: white;
@@ -23,4 +23,4 @@
 
 <a href="https://zapper.fun/zap?id=npub1marc26z8nh3xkj5rcx7ufkatvx6ueqhp5vfw9v5teq26z254renshtf3g0">
   <button class="zap-button">Zap This Article</button>
-</a>`
+</a>
