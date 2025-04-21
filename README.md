@@ -1,4 +1,4 @@
-# GhostZapButton
+# Ghost Zap Button
 ## HTML button that re-directs to zapper.fun, a nostr client built for [zaps](https://nostr.how/en/zaps). Add it to your Ghost Blog or any other website you like.
 
 - To use the button, copy the code in the index.html file.
